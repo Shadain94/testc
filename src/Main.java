@@ -16,6 +16,8 @@ public class Main {
 	
 		Cars car= new Cars(" Tesla ", " X8 ", 300000);
 		System.out.println(car);
+		System.out.println("hey");
+		
 
 	}
 
